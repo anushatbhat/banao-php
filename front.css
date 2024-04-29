@@ -1,0 +1,43 @@
+body {
+
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+
+    width: 100%;
+
+
+    background-position: center;
+
+    background-size: cover;
+
+    height: 109vh;
+
+}
+
+
+
+.form {
+    width: 250px;
+    height: 380px;
+
+    top: -20px;
+    left: 870px;
+
+}
+
+
+::placeholder {
+    color: #fff;
+    font-family: Arial;
+}
+
+.btnn {
+    width: 240px;
+    height: 40px;
+
+    margin-top: 30px;
+
+}
